@@ -1,0 +1,35 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": {
+          "floats": [
+            11001
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "mace_variants:item/caries_attack_mace/caries_attack_mace"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            11002
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "mace_variants:item/i_like_trains_mace/i_like_trains_mace"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/mace"
+    }
+  }
+}
