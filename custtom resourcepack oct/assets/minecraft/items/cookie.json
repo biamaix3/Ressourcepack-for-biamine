@@ -1,0 +1,67 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_model_data",
+    "on_true": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": []
+    },
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/cookie"
+    },
+    "cases": [
+      {
+        "when": {
+          "floats": [
+            1
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/sweet/sweet"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            2
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/lollipop/lollipop"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            3
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/chocolate/chocolate"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            4
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/popcorn/popcorn"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/cookie"
+    }
+  }
+}
