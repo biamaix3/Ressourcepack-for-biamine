@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 75,
-	 "description": "Ressourcepack for the trophie plugin and halloween"
+    "min_format":65,
+    "max_format":75,
+    "description": "Ressourcepack for the trophie plugin and halloween"
   }
 }
