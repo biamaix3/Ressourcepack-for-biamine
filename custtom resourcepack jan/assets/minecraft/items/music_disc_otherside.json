@@ -1,0 +1,67 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_model_data",
+    "on_true": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": []
+    },
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/music_disc_otherside"
+    },
+    "cases": [
+      {
+        "when": {
+          "floats": [
+            7001
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/dragon_slayer/dragon_slayer"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            7002
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/gateway/gateway"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            7003
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/the_taste_of_freedom/the_taste_of_freedom"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6001
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/finish_halloween_house/finish_halloween_house"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/music_disc_otherside"
+    }
+  }
+}
