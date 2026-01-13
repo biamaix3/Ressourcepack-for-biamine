@@ -3,16 +3,6 @@
     "type": "minecraft:select",
     "property": "minecraft:component",
     "component": "minecraft:custom_model_data",
-    "on_true": {
-      "type": "minecraft:select",
-      "property": "minecraft:component",
-      "component": "minecraft:custom_name",
-      "cases": []
-    },
-    "on_false": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/music_disc_otherside"
-    },
     "cases": [
       {
         "when": {
