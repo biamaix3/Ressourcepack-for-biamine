@@ -10,6 +10,13 @@
           "type": "minecraft:model",
           "model": "cosmetics:item/hat/cylinder/cylinder"
         }
+      },
+      {
+        "when": "biadem",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/biadem/biadem"
+        }
       }
     ],
     "fallback": {
