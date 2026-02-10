@@ -1,0 +1,97 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "cylinder",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/cylinder/cylinder"
+        }
+      },
+      {
+        "when": "biadem",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/biadem/biadem"
+        }
+      },
+      {
+        "when": "witch",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/witch/witch"
+        }
+      },
+      {
+        "when": "pirate",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/pirate/pirate"
+        }
+      },
+      {
+        "when": "cookiemonster",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/cookiemonster/cookiemonster"
+        }
+      },
+      {
+        "when": "devil",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/devil/devil"
+        }
+      },
+      {
+        "when": "headphones",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/headphones/headphones"
+        }
+      },
+      {
+        "when": "maskblue",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/maskblue/maskblue"
+        }
+      },
+      {
+        "when": "maskpink",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/maskpink/maskpink"
+        }
+      },
+      {
+        "when": "perry",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/perry/perry"
+        }
+      },
+      {
+        "when": "undercover",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/undercover/undercover"
+        }
+      },
+      {
+        "when": "dinosaur",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/dinosaur/dinosaur"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/rabbit_hide"
+    }
+  }
+}
