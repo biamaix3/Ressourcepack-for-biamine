@@ -80,6 +80,13 @@
           "type": "minecraft:model",
           "model": "cosmetics:item/hat/undercover/undercover"
         }
+      },
+      {
+        "when": "dinosaur",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/dinosaur/dinosaur"
+        }
       }
     ],
     "fallback": {
