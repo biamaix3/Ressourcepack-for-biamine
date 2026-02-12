@@ -5,7 +5,7 @@
     "component": "minecraft:custom_name",
     "cases": [
       {
-        "when": "cylinder",
+        "when": "top hat",
         "model": {
           "type": "minecraft:model",
           "model": "cosmetics:item/hat/cylinder/cylinder"
@@ -19,10 +19,24 @@
         }
       },
       {
+        "when": "sombrero",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/sombrero/sombrero"
+        }
+      },
+      {
         "when": "witch",
         "model": {
           "type": "minecraft:model",
           "model": "cosmetics:item/hat/witch/witch"
+        }
+      },
+      {
+        "when": "ouch",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/egg/egg"
         }
       },
       {
@@ -33,6 +47,27 @@
         }
       },
       {
+        "when": "wrestler",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/wrestler/wrestler"
+        }
+      },
+      {
+        "when": "undercover",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/undercover/undercover"
+        }
+      },
+      {
+        "when": "holy",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/halo/halo"
+        }
+      },
+      {
         "when": "cookiemonster",
         "model": {
           "type": "minecraft:model",
@@ -40,7 +75,7 @@
         }
       },
       {
-        "when": "devil",
+        "when": "evil",
         "model": {
           "type": "minecraft:model",
           "model": "cosmetics:item/hat/devil/devil"
@@ -54,17 +89,24 @@
         }
       },
       {
-        "when": "maskblue",
+        "when": "blue mask",
         "model": {
           "type": "minecraft:model",
           "model": "cosmetics:item/hat/maskblue/maskblue"
         }
       },
       {
-        "when": "maskpink",
+        "when": "pink mask",
         "model": {
           "type": "minecraft:model",
           "model": "cosmetics:item/hat/maskpink/maskpink"
+        }
+      },
+      {
+        "when": "black mask",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/maskblack/maskblack"
         }
       },
       {
@@ -75,10 +117,31 @@
         }
       },
       {
-        "when": "undercover",
+        "when": "rawr",
         "model": {
           "type": "minecraft:model",
-          "model": "cosmetics:item/hat/undercover/undercover"
+          "model": "cosmetics:item/hat/dinosaur/dinosaur"
+        }
+      },
+      {
+        "when": "smallshroomlightcube",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/smallshroomlightcube/smallshroomlightcube"
+        }
+      },
+      {
+        "when": "in love",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/heartglasses/heartglasses"
+        }
+      },
+      {
+        "when": "heartballoon",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/heartballoon/heartballoon"
         }
       }
     ],
