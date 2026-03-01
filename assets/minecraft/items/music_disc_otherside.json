@@ -40,6 +40,83 @@
       {
         "when": {
           "floats": [
+            8003
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/pvp_trophies/sword/sword"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            8001
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/pvp_trophies/bow/bow"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            8002
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/pvp_trophies/spear/spear"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            8004
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/pvp_trophies/trident/trident"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            8006
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/pvp_trophies/mace/mace"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            8005
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/pvp_trophies/axe/axe"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            8008
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/pvp_trophies/best/best"
+        }
+      },
+      {
+        "when": {
+          "floats": [
             6001
           ]
         },
