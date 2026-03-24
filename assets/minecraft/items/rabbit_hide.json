@@ -138,6 +138,13 @@
         }
       },
       {
+        "when": "bunny",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/bunny/bunny ears"
+        }
+      },
+      {
         "when": "heartballoon",
         "model": {
           "type": "minecraft:model",
