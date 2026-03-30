@@ -117,6 +117,17 @@
       {
         "when": {
           "floats": [
+            6004
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/easter_trophy/easter_trophy"
+        }
+      },
+      {
+        "when": {
+          "floats": [
             6001
           ]
         },
