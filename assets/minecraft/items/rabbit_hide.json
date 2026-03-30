@@ -145,13 +145,6 @@
         }
       },
       {
-        "when": "hase",
-        "model": {
-          "type": "minecraft:model",
-          "model": "cosmetics:item/hat/hase/hase"
-        }
-      },
-      {
         "when": "heartballoon",
         "model": {
           "type": "minecraft:model",
