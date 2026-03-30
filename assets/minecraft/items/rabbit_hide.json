@@ -141,7 +141,14 @@
         "when": "bunny",
         "model": {
           "type": "minecraft:model",
-          "model": "cosmetics:item/hat/bunny/bunny ears"
+          "model": "cosmetics:item/hat/bunny/bunny"
+        }
+      },
+      {
+        "when": "hase",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/hase/hase"
         }
       },
       {
