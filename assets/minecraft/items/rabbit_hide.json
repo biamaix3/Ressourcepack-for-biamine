@@ -141,7 +141,7 @@
         "when": "bunny",
         "model": {
           "type": "minecraft:model",
-          "model": "cosmetics:item/hat/bunny/bunny ears"
+          "model": "cosmetics:item/hat/bunny/bunny"
         }
       },
       {
