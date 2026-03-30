@@ -1,0 +1,277 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_model_data",
+    "cases": [
+     {
+        "when": {
+          "floats": [
+            6001
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/apex/apex"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6002
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/bia/bia"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6003
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/deniz/deniz"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6004
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/framsz/framsz"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6005
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/glitch/glitch"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6006
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/gurkenmaan/gurkenmaan"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6007
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/hollowjxck/hollowjxck"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6008
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/ikki_kurogane/ikki_kurogane"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6009
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/infi_y/infi_y"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6010
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/itztherealknight/itztherealknight"        
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6011
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/lawfulbalcony/lawfulbalcony"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6012
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/lillielen/lillielen"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6013
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/marcrblx/marcrblx"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6014
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/minecraftpumkin/minecraftpumkin"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6015
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/mrbelloman/mrbelloman"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6016
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/novicegorilla/novicegorilla"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6017
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/ofenkartoffel/ofenkartoffel"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6018
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/rob/rob"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6019
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/sskeley/sskeley"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6020
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/sunrisey/sunrisey"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6021
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/tantis/tantis"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6022
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/toni/toni"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6023
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/tpt_parker/tpt_parker"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6024
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "player_eggs:item/xexe/xexe"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/music_disc_wait"
+    }
+  }
+}
