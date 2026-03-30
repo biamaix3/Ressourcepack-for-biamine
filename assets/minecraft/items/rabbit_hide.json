@@ -145,6 +145,20 @@
         }
       },
       {
+        "when": "sheep",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/sheep/sheep"
+        }
+      },
+      {
+        "when": "hohoho",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/santahat/santahat"
+        }
+      },
+      {
         "when": "bunny",
         "model": {
           "type": "minecraft:model",
