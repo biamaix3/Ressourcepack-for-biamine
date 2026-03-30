@@ -138,6 +138,13 @@
         }
       },
       {
+        "when": "potato",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/potato/potato"
+        }
+      },
+      {
         "when": "bunny",
         "model": {
           "type": "minecraft:model",
