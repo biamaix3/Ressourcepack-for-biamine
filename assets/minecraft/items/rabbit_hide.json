@@ -152,6 +152,13 @@
         }
       },
       {
+        "when": "hare",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/hare/hare"
+        }
+      },
+      {
         "when": "heartballoon",
         "model": {
           "type": "minecraft:model",
