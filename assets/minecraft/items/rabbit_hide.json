@@ -67,6 +67,13 @@
           "model": "cosmetics:item/hat/halo/halo"
         }
       },
+            {
+        "when": "unholy",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/black_halo/black_halo"
+        }
+      },
       {
         "when": "cookiemonster",
         "model": {
@@ -138,10 +145,38 @@
         }
       },
       {
+        "when": "potato",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/potato/potato"
+        }
+      },
+      {
+        "when": "sheep",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/sheep/sheep"
+        }
+      },
+      {
+        "when": "hohoho",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/santahat/santahat"
+        }
+      },
+      {
         "when": "bunny",
         "model": {
           "type": "minecraft:model",
-          "model": "cosmetics:item/hat/bunny/bunny ears"
+          "model": "cosmetics:item/hat/bunny/bunny"
+        }
+      },
+      {
+        "when": "hare",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/hat/hare/hare"
         }
       },
       {
