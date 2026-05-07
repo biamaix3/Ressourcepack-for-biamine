@@ -128,6 +128,17 @@
       {
         "when": {
           "floats": [
+            6005
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/jump/jump"
+        }
+      },
+      {
+        "when": {
+          "floats": [
             6001
           ]
         },
