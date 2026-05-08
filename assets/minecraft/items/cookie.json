@@ -61,17 +61,6 @@
       {
         "when": {
           "floats": [
-            6004
-          ]
-        },
-        "model": {
-          "type": "minecraft:model",
-          "model": "cookie_variants:item/icecream/icecream"
-        }
-      },
-      {
-        "when": {
-          "floats": [
             6002
           ]
         },
@@ -89,6 +78,17 @@
         "model": {
           "type": "minecraft:model",
           "model": "cookie_variants:item/candycane/candycane"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6004
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/icecream/icecream"
         }
       }
     ],
