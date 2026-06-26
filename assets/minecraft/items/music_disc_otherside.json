@@ -117,6 +117,28 @@
       {
         "when": {
           "floats": [
+            8009
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/chess_trophy/trophy_king"
+        }
+      },
+       {
+        "when": {
+          "floats": [
+            8010
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/chess_trophy/trophy_pawn"
+        }
+      },
+      {
+        "when": {
+          "floats": [
             6004
           ]
         },
