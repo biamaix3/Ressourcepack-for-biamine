@@ -83,6 +83,28 @@
       {
         "when": {
           "floats": [
+            6005
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/belgianwaffle/belgianwaffle"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6006
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/popcornbucket/popcornbucket"
+        }
+      },
+      {
+        "when": {
+          "floats": [
             6004
           ]
         },
