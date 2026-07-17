@@ -11,6 +11,13 @@
           "model": "lilac_variants:item/corn_flower_lilac/corn_flower_lilac"
         }
       }
+      {
+        "when": "wedding",
+        "model": {
+          "type": "minecraft:model",
+          "model": "lilac_variants:item/wedding_bouquet/wedding_bouquet"
+        }
+      }
     ],
     "fallback": {
       "type": "minecraft:model",
