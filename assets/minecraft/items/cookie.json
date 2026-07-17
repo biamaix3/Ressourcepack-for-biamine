@@ -94,6 +94,50 @@
       {
         "when": {
           "floats": [
+            6007
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/hamburger/hamburger"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6008
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/pizza/pizza"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6009
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/sushi/sushi"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6010
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/weddingcake/weddingcake"
+        }
+      },
+      {
+        "when": {
+          "floats": [
             6006
           ]
         },
