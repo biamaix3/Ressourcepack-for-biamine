@@ -10,7 +10,7 @@
           "type": "minecraft:model",
           "model": "lilac_variants:item/corn_flower_lilac/corn_flower_lilac"
         }
-      }
+      },
       {
         "when": "wedding",
         "model": {
