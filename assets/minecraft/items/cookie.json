@@ -138,6 +138,17 @@
       {
         "when": {
           "floats": [
+            6001
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/pommes/pommes"
+        }
+      },
+           {
+        "when": {
+          "floats": [
             6006
           ]
         },
