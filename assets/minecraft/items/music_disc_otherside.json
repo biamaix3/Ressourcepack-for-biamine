@@ -114,6 +114,17 @@
           "model": "music_disc_variants:item/pvp_trophies/best/best"
         }
       },
+        {
+        "when": {
+          "floats": [
+            8007
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "music_disc_variants:item/pvp_trophies/nauti/nauti"
+        }
+      },
       {
         "when": {
           "floats": [
