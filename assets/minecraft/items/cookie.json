@@ -146,6 +146,17 @@
           "model": "cookie_variants:item/pommes/pommes"
         }
       },
+      {
+        "when": {
+          "floats": [
+            6011
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/cotton_candy/cotton_candy"
+        }
+      },
            {
         "when": {
           "floats": [
