@@ -17,13 +17,6 @@
           "type": "minecraft:model",
           "model": "lilac_variants:item/wedding_bouquet/wedding_bouquet"
         }
-      },
-      {
-        "when": "paper plate",
-        "model": {
-          "type": "minecraft:model",
-          "model": "lilac_variants:item/paper_plate/paper_plate"
-        }
       }
     ],
     "fallback": {

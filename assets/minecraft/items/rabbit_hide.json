@@ -120,7 +120,7 @@
         "when": "perry",
         "model": {
           "type": "minecraft:model",
-          "model": "cosmetics:item/hat/perry/perry"
+          "model": "cosmetics:item/off_hand/perry/perry"
         }
       },
       {
@@ -183,21 +183,28 @@
         "when": "heartballoon",
         "model": {
           "type": "minecraft:model",
-          "model": "cosmetics:item/hat/heartballoon/heartballoon"
+          "model": "cosmetics:item/off_hand/balloon/heartballoon/heartballoon"
         }
       },
        {
         "when": "balloon dog",
         "model": {
           "type": "minecraft:model",
-          "model": "cosmetics:item/hat/balloon_dog/balloon_dog"
+          "model": "cosmetics:item/off_hand/balloon/balloon_dog/balloon_dog"
         }
       },
       {
         "when": "balloon",
         "model": {
           "type": "minecraft:model",
-          "model": "cosmetics:item/hat/balloon/balloon"
+          "model": "cosmetics:item/off_hand/balloon/balloon/balloon"
+        }
+      },
+      {
+        "when": "paper plate",
+        "model": {
+          "type": "minecraft:model",
+          "model": "cosmetics:item/decoration/paper_plate/paper_plate"
         }
       }
     ],
