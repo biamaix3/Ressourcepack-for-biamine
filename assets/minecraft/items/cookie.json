@@ -168,6 +168,17 @@
           "model": "cookie_variants:item/timbits/timbits"
         }
       },
+        {
+        "when": {
+          "floats": [
+            6013
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/brezel/brezel"
+        }
+      },
            {
         "when": {
           "floats": [
