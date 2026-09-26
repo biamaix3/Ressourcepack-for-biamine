@@ -1,7 +1,0 @@
-{
-  "pack": {
-    "min_format":65,
-    "max_format":97,
-    "description": "Ressourcepack for the biamine server"
-  }
-}
