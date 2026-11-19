@@ -12,7 +12,7 @@
         },
         "model": {
           "type": "minecraft:model",
-          "model": "christmas_ornaments:item/bia/bia"
+          "model": "ornaments:item/bia/bia"
         }
       }
     ],
