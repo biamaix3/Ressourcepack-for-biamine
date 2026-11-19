@@ -199,7 +199,7 @@
         },
         "model": {
           "type": "minecraft:model",
-          "model": "music_disc_variants:item/halloween/halloween"
+          "model": "music_disc_variants:item/halloween/ghost"
         }
       },
       {
@@ -221,7 +221,7 @@
         },
         "model": {
           "type": "minecraft:model",
-          "model": "music_disc_variants:item/finish_halloween_house/finish_halloween_house"
+          "model": "music_disc_variants:item/halloween/finish_halloween_house"
         }
       }
     ],
