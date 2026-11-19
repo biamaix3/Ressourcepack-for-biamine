@@ -204,6 +204,28 @@
       {
         "when": {
           "floats": [
+            6015
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/hot_chocolate/hot_chocolate"
+        }
+      },
+      {
+        "when": {
+          "floats": [
+            6016
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "cookie_variants:item/christmas_cookie/christmas_cookie"
+        }
+      },
+      {
+        "when": {
+          "floats": [
             6004
           ]
         },
